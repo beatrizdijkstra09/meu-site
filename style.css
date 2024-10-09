@@ -1,4 +1,22 @@
 body {
-    color: white
-    background-color: aliceblue
+    color: white;
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    width: 150px;
+    height: 150px;
 }
