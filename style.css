@@ -2,7 +2,3 @@ body {
     color: white
     background-color: aliceblue
 }
-ul {
-    display: flex;
-    justify-content: space-between;
-}
