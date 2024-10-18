@@ -11,6 +11,7 @@ ul {
     align-items: center;
     padding: 16px;
 }
+
 a {
     color: black;
     text-decoration: none;
@@ -22,10 +23,17 @@ header img {
     border-radius: 50%;
     border: 5px solid black;
 }
+
 .center {
     text-align: center;
 }
+
 footer img {
     width: 50px;
     height: 50px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
 }
